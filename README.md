@@ -11,6 +11,6 @@ Interactive Supply Chain & Logistics Dashboard tracking gross revenue, shipment 
 - **Volume & Fulfillment:** Total Sales Quantity (78.13M), Order Quantity (129K), Total Shipments (8K), Shipment Volume (3M)
 - **Inventory & Suppliers:** Inventory Value (160K), Average Supplier Lead Time (9–12 days across key vendors like BOE Technology, Sony Semiconductor, TSMC, SK Hynix)
 - **Logistics & Customers:** Delayed Shipments breakdown by logistics partners (Maersk Line, DHL, DB Schenker, FedEx) and B2B Revenue share (Amazon, Flipkart, Best Buy, MediaMarkt Saturn, Samsung Direct Store)
-
+  
 ## 📊 Dashboard Preview
-![Samsung Supply Chain Dashboard](samsung-supply-chain-dashboard.png)
+![Samsung Supply Chain Dashboard](samsung.png)
